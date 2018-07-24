@@ -1,0 +1,15 @@
+{
+  "name": "rollup-plugin-yaml-tosource",
+  "version": "1.0.0",
+  "description": "repro",
+  "main": "index.js",
+  "scripts": {
+    "test": "node -r esm index.js"
+  },
+  "author": "Wei Wang <wei@compass.com>",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.0.72",
+    "rollup-plugin-yaml": "^1.1.0"
+  }
+}
