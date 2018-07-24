@@ -1,1 +1,1 @@
-import 'rollup-plugin-yaml';
+require('rollup-plugin-yaml')
