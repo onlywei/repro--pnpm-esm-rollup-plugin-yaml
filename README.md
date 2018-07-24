@@ -8,3 +8,5 @@ To see the failure case, follow these steps:
 3. Run `pnpm test`
 
 Notice the error. There should not be an error.
+
+Note that it does not matter if `index.js` uses `import` nor `require()`. Both loading methods fail.
